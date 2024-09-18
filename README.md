@@ -113,5 +113,6 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 [<img src="https://github.com/Javisanchezf/media/blob/main/twitter-icon.png" width="50" height="50" align = right></img>](https://twitter.com/intent/tweet?url=https://github.com/Javisanchezf&text=Hey!%20Check%20out%20this%20cool%20repository%20I%20found%20on%20Github)
 [<img src="https://github.com/Javisanchezf/media/blob/main/linkedin-icon.png" width="50" height="50" align = right></img>](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/AntonioJesusRM)
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D5CAE&center=true&vCenter=true&width=435&lines=Creativity+%2B+Knowledge+%3D+Success;Knowmad+as+a+lifestyle;Able+to+work+in+team+and+individual" alt="Typing SVG" /></p>
-</body>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D5CAE&center=true&vCenter=true&width=435&lines=Passionate+About+Technology;Teamwork+and+Innovation;Driven+by+Learning+and+Growth" alt="Typing SVG" />
+</p>
