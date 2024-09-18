@@ -26,3 +26,24 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <h3>Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,vim,vscode,github,git,docker)](https://skillicons.dev)
+
+</details>
+
+<details>
+  <summary> Contact</summary>
+<div align="center">
+    <h2 align="center">You can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/antonio-jesus-ruiz-moreno/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitE"
+         alt="AntonioJesusRM linkedin" height="30"/></a>
+      <a href="mailto:antjrm95@hotmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="AntonioJesusRM mail" height="30"/></a>
+      <a href="https://wa.me/+34622940920" target="blank"><img align="center"
+         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="AntonioJesusRM Whatsapp" height="30"/></a>
+      <br>
+    </p>
+</details>
