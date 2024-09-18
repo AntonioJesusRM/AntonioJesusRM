@@ -54,7 +54,7 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <p align="left">This is my Github profile where you can find all the projects I have completed during my time at 42.</p>
 
 | Nº | Project Name | Description | Status |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | 01 | [libft](../../../libft) | My first own C library | ✅ |
 | 02 | [ft_printf](../../../42Malaga-ft_printf)             | Recoding the printf function | ✅ | 
 | 03 | [get_next_line](../../../42Malaga-get_next_line)     | A function that reads a line from a file descriptor | ✅ |
