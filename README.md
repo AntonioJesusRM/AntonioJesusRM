@@ -52,7 +52,9 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <h2>42 Cursus projects</h2>
 </div>
 <div align="center">
-<br>
-[![aruiz-mo's 42 stats](https://badge.mediaplus.ma/black/aruiz-mo?UM6P=off)](https://github.com/oakoudad/badge42)
+  <br>
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/black/aruiz-mo?UM6P=off" alt="aruiz-mo's 42 stats">
+  </a>
 </div>
 </details>
