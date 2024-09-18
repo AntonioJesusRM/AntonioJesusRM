@@ -51,7 +51,7 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <div align="center">
 <h2>42 Cursus projects</h2>
 </div>
-<p align="left">This is my Github profile where you can find all the projects I have completed during my time at 42.</p>
+<p align="center">This is my Github profile where you can find all the projects I have completed during my time at 42.</p>
 
 | Nº | Project Name | Description | Status |
 | --- | --- | --- | --- |
