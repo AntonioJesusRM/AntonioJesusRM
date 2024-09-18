@@ -109,7 +109,6 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <h3 align="right">Share the profile!</h3>
 
 [<img src="https://github.com/AntonioJesusRM/media/blob/main/whatsapp-icon.png" width="50" height="50" align = right></img>](https://api.whatsapp.com/send?text=Hey!%20Check%20out%20this%20cool%20profile%20I%20found%20on%20Github.%20%0ahttps://github.com/AntonioJesusRM)
-[<img src="https://github.com/AntonioJesusRM/media/blob/main/telegram-icon.webp" width="50" height="50" align = right></img>](https://t.me/share/url?url=https://github.com/AntonioJesusRM&text=Hey!%20Check%20out%20this%20cool%20profile%20I%20found%20on%20Github.)
 [<img src="https://github.com/AntonioJesusRM/media/blob/main/twitter-icon.png" width="50" height="50" align = right></img>](https://twitter.com/intent/tweet?url=https://github.com/AntonioJesusRM&text=Hey!%20Check%20out%20this%20cool%20repository%20I%20found%20on%20Github)
 [<img src="https://github.com/AntonioJesusRM/media/blob/main/linkedin-icon.png" width="50" height="50" align = right></img>](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/AntonioJesusRM)
 
