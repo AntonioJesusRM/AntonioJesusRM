@@ -87,5 +87,31 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
     <img src="https://badge.mediaplus.ma/darkblue/aruiz-mo?1337Badge=off&UM6P=off" alt="aruiz-mo's 42 stats" />
   </a>
 </div>
-
 </details>
+
+<details>
+  <summary>GitHub Stats</summary>
+<div align="center">
+
+<h2>Github Stats</h2>
+
+![](https://github-readme-stats.vercel.app/api?username=AntonioJesusRM&theme=light&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+---
+
+
+![](https://github-profile-trophy.vercel.app/?username=AntonioJesusRM&theme=flat&no-frame=true&no-bg=true&margin-w=4)
+
+
+</div>
+</details>
+
+<h3 align = right>Share the profile!</h3>
+
+[<img src="https://github.com/Javisanchezf/media/blob/main/whatsapp-icon.png" width="50" height="50" align = right></img>](https://api.whatsapp.com/send?text=Hey!%20Check%20out%20this%20cool%20profile%20I%20found%20on%20Github.%20%0ahttps://github.com/Javisanchezf)
+[<img src="https://github.com/Javisanchezf/media/blob/main/telegram-icon.webp" width="50" height="50" align = right></img>](https://t.me/share/url?url=https://github.com/AntonioJesusRM&text=Hey!%20Check%20out%20this%20cool%20profile%20I%20found%20on%20Github.)
+[<img src="https://github.com/Javisanchezf/media/blob/main/twitter-icon.png" width="50" height="50" align = right></img>](https://twitter.com/intent/tweet?url=https://github.com/Javisanchezf&text=Hey!%20Check%20out%20this%20cool%20repository%20I%20found%20on%20Github)
+[<img src="https://github.com/Javisanchezf/media/blob/main/linkedin-icon.png" width="50" height="50" align = right></img>](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/AntonioJesusRM)
+
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D5CAE&center=true&vCenter=true&width=435&lines=Creativity+%2B+Knowledge+%3D+Success;Knowmad+as+a+lifestyle;Able+to+work+in+team+and+individual" alt="Typing SVG" /></p>
+</body>
