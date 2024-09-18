@@ -76,7 +76,7 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 | 19 | [CPP Module 08](../../../cpp/tree/master/modulo08) | Templated containers, iterators in C++ | ✅ |
 | 20 | [CPP Module 09](../../../cpp/tree/master/modulo09) | Templated containers, iterators in C++ | ✅ |
 | 21 | NetPractice | Network and system administration exercises | ✅ |
-| 22 | [ft_irc](../../../ft_irc | Implementation of an IRC server | ✅ |
+| 22 | [ft_irc](../../../ft_irc) | Implementation of an IRC server | ✅ |
 | 23 | [Inception](../../../inception) | Docker-Compose project | ✅ |
 | 24 | [ft_transcendence](../../../ft_transcendence) | Implementation of a multiplayer game server | ✅ |
 ---
