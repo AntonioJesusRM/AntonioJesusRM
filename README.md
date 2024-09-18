@@ -40,6 +40,7 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 | 02 | [Sprint2Lab](../../../Sprint2Lab) | Area calculation tool | ✅ |
 | 03 | [Sprint3Lab](../../../Sprint3Lab) | Movie list app | ✅ |
 | 04 | [ChitChat](../../../ChitChat) | Mobile chat app with API integration | ✅ |
+---
 </details>
 
 <details>
