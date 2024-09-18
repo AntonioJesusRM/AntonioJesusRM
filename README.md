@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I’m Antonio</img>  </h1>
+<h1 align="center">Hi, I’m Antonio</h1>
 <h3 align="center">Mobile developer | 42 Málaga student </h3>
 <h4 align="center">See my <a href="https://github.com/AntonioJesusRM/AntonioJesusRM/blob/main/Curriculum.pdf" target="_blank">resume</a> for more</h4>
 
 <div align="center">
-<br>
-[![](https://visitcount.itsvg.in/api?id=AntonioJesusRM&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-</div>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AntonioJesusRM&label=Profile%20Views&color=1&icon=0&pretty=false" alt="Profile Views">
+</a>
 
 <details>
   <summary>About me</summary>
@@ -60,25 +60,25 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 | 03 | [get_next_line](../../../42Malaga-get_next_line)     | A function that reads a line from a file descriptor | ✅ |
 | 04 | Born2beroot | Setting up a secured server | ✅ |
 | 05 | [push_swap](../../../42Malaga-push_swap) | A sorting algorithm using two stacks | ✅ |
-| 06 | [minitalk](../../../42Malaga-minitalk)                | A client-server program to exchange messages using signals | ✅ |
-| 07 | [FdF](../../../42Malaga-fdf)                          | A 3D wireframe renderer | ✅ |
+| 06 | [pipex](../../../42Malaga-pipex) | A program that replicates the functionality of Unix pipes | ✅ |
+| 07 | [fract-ol](../../../42Malaga-fractol) | A program that renders fractals | ✅ |
 | 08 | [Philosphers](../../../42Malaga-philosophers)  | A program that simulates the dining philosophers problem | ✅ |
 | 09 | [minishell](../../../42Malaga-minishell) | A UNIX shell implementation | ✅ |
 | 10 | [cub3d](../../../42Malaga-cub3D) | A raycasting 3D game engine | ✅ |
-| 12 | [CPP Module 00](../../../42Malaga-CPP/tree/master/CPP00) | Introduction to C++ | ✅ |
-| 13 | [CPP Module 01](../../../42Malaga-CPP/tree/master/CPP01) | Memory allocation and references in C++ | ✅ |
-| 14 | [CPP Module 02](../../../42Malaga-CPP/tree/master/CPP02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ |
-| 15 | [CPP Module 03](../../../42Malaga-CPP/tree/master/CPP03) | Inheritance in C++ | ✅ | 80/100 |
-| 16 | [CPP Module 04](../../../42Malaga-CPP/tree/master/CPP04) | Subtype polymorphism, abstract classes, interfaces in C++ | ✅ |
-| 17 | [CPP Module 05](../../../42Malaga-CPP/tree/master/CPP05) | Nested classes, exceptions, and file streams in C++ | ✅ |
-| 18 | [CPP Module 06](../../../42Malaga-CPP/tree/master/CPP06) | Casts in C++, templates, STL | ✅ |
-| 19 | [CPP Module 07](../../../42Malaga-CPP/tree/master/CPP07) | Templates in depth, containers in C++ | ✅ |
-| 20 | [CPP Module 08](../../../42Malaga-CPP/tree/master/CPP08) | Templated containers, iterators in C++ | ✅ |
-| 21 | [CPP Module 09](../../../42Malaga-CPP/tree/master/CPP09) | Templated containers, iterators in C++ | ✅ |
-| 22 | NetPractice | Network and system administration exercises | ✅ |
-| 23 | webserv | Implementation of a basic HTTP server | ✅ |
-| 24 | Inception | Docker-Compose project | ✅ |
-| 25 | ft_transcendence | Implementation of a multiplayer game server | ✅ |
+| 11 | [CPP Module 00](../../../42Malaga-CPP/tree/master/CPP00) | Introduction to C++ | ✅ |
+| 12 | [CPP Module 01](../../../42Malaga-CPP/tree/master/CPP01) | Memory allocation and references in C++ | ✅ |
+| 13 | [CPP Module 02](../../../42Malaga-CPP/tree/master/CPP02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ |
+| 14 | [CPP Module 03](../../../42Malaga-CPP/tree/master/CPP03) | Inheritance in C++ | ✅ | 80/100 |
+| 15 | [CPP Module 04](../../../42Malaga-CPP/tree/master/CPP04) | Subtype polymorphism, abstract classes, interfaces in C++ | ✅ |
+| 16 | [CPP Module 05](../../../42Malaga-CPP/tree/master/CPP05) | Nested classes, exceptions, and file streams in C++ | ✅ |
+| 17 | [CPP Module 06](../../../42Malaga-CPP/tree/master/CPP06) | Casts in C++, templates, STL | ✅ |
+| 18 | [CPP Module 07](../../../42Malaga-CPP/tree/master/CPP07) | Templates in depth, containers in C++ | ✅ |
+| 19 | [CPP Module 08](../../../42Malaga-CPP/tree/master/CPP08) | Templated containers, iterators in C++ | ✅ |
+| 20 | [CPP Module 09](../../../42Malaga-CPP/tree/master/CPP09) | Templated containers, iterators in C++ | ✅ |
+| 21 | NetPractice | Network and system administration exercises | ✅ |
+| 22 | ft_irc | Implementation of an IRC server | ✅ |
+| 23 | Inception | Docker-Compose project | ✅ |
+| 24 | ft_transcendence | Implementation of a multiplayer game server | ✅ |
 ---
 
 <div align="center">
