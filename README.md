@@ -29,24 +29,6 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 </details>
 
 <details>
-  <summary> Contact</summary>
-<div align="center">
-    <h2 align="center">You can reach me by:</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/antonio-jesus-ruiz-moreno/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitE"
-         alt="AntonioJesusRM linkedin" height="30"/></a>
-      <a href="mailto:antjrm95@hotmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="AntonioJesusRM mail" height="30"/></a>
-      <a href="https://wa.me/+34622940920" target="blank"><img align="center"
-         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="AntonioJesusRM Whatsapp" height="30"/></a>
-      <br>
-    </p>
-</details>
-<details>
   <summary>42 Cursus projects</summary>
 <div align="center">
 <h2>42 Cursus projects</h2>
@@ -106,6 +88,25 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 </div>
 </details>
 
+<details>
+  <summary> Contact</summary>
+<div align="center">
+    <h2 align="center">You can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/antonio-jesus-ruiz-moreno/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitE"
+         alt="AntonioJesusRM linkedin" height="30"/></a>
+      <a href="mailto:antjrm95@hotmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="AntonioJesusRM mail" height="30"/></a>
+      <a href="https://wa.me/+34622940920" target="blank"><img align="center"
+         src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="AntonioJesusRM Whatsapp" height="30"/></a>
+      <br>
+    </p>
+</details>
+  
 <h3 align="right">Share the profile!</h3>
 
 [<img src="https://github.com/AntonioJesusRM/media/blob/main/whatsapp-icon.png" width="50" height="50" align = right></img>](https://api.whatsapp.com/send?text=Hey!%20Check%20out%20this%20cool%20profile%20I%20found%20on%20Github.%20%0ahttps://github.com/AntonioJesusRM)
