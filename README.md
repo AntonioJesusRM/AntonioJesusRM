@@ -30,16 +30,16 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 
 <details>
   <summary>Mobile Bootcamp</summary>
-<div align="center">
-<h2>Bootcamp projects</h2>
-</div>
-<p align="center">Here are the projects I completed during the mobile bootcamp.</p>
-| Nº | Project Name | Description | Status |
-| --- | --- | --- | --- |
-| 01 | [First Project](../../../My-first-project-with-Android-Studio) | Bootcamp kickoff project | ✅ |
-| 02 | [Sprint2Lab](../../../Sprint2Lab) | Area calculation tool | ✅ |
-| 03 | [Sprint3Lab](../../../Sprint3Lab) | Movie list app | ✅ |
-| 04 | [ChitChat](../../../ChitChat) | Mobile chat app with API integration | ✅ |
+
+  <h2 align="center">Bootcamp Projects</h2>
+  <p align="center">Here are the projects I completed during the mobile bootcamp.</p>
+
+  | Nº  | Project Name | Description                             | Status |
+  | --- | ------------ | --------------------------------------- | ------ |
+  | 01  | [First Project](../../../My-first-project-with-Android-Studio) | Bootcamp kickoff project                | ✅     |
+  | 02  | [Sprint2Lab](../../../Sprint2Lab) | Area calculation tool                    | ✅     |
+  | 03  | [Sprint3Lab](../../../Sprint3Lab) | Movie list app                           | ✅     |
+  | 04  | [ChitChat](../../../ChitChat) | Mobile chat app with API integration     | ✅     |
 </details>
 
 <details>
