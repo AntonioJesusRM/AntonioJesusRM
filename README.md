@@ -56,29 +56,29 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 | Nº | Project Name | Description | Status |
 | --- | --- | --- | --- |
 | 01 | [libft](../../../libft) | My first own C library | ✅ |
-| 02 | [ft_printf](../../../42Malaga-ft_printf)             | Recoding the printf function | ✅ | 
-| 03 | [get_next_line](../../../42Malaga-get_next_line)     | A function that reads a line from a file descriptor | ✅ |
+| 02 | [ft_printf](../../../printf)             | Recoding the printf function | ✅ | 
+| 03 | [get_next_line](../../../get_next_line)     | A function that reads a line from a file descriptor | ✅ |
 | 04 | Born2beroot | Setting up a secured server | ✅ |
-| 05 | [push_swap](../../../42Malaga-push_swap) | A sorting algorithm using two stacks | ✅ |
-| 06 | [pipex](../../../42Malaga-pipex) | A program that replicates the functionality of Unix pipes | ✅ |
-| 07 | [fract-ol](../../../42Malaga-fractol) | A program that renders fractals | ✅ |
-| 08 | [Philosphers](../../../42Malaga-philosophers)  | A program that simulates the dining philosophers problem | ✅ |
-| 09 | [minishell](../../../42Malaga-minishell) | A UNIX shell implementation | ✅ |
-| 10 | [cub3d](../../../42Malaga-cub3D) | A raycasting 3D game engine | ✅ |
-| 11 | [CPP Module 00](../../../42Malaga-CPP/tree/master/CPP00) | Introduction to C++ | ✅ |
-| 12 | [CPP Module 01](../../../42Malaga-CPP/tree/master/CPP01) | Memory allocation and references in C++ | ✅ |
-| 13 | [CPP Module 02](../../../42Malaga-CPP/tree/master/CPP02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ |
-| 14 | [CPP Module 03](../../../42Malaga-CPP/tree/master/CPP03) | Inheritance in C++ | ✅ | 80/100 |
-| 15 | [CPP Module 04](../../../42Malaga-CPP/tree/master/CPP04) | Subtype polymorphism, abstract classes, interfaces in C++ | ✅ |
-| 16 | [CPP Module 05](../../../42Malaga-CPP/tree/master/CPP05) | Nested classes, exceptions, and file streams in C++ | ✅ |
-| 17 | [CPP Module 06](../../../42Malaga-CPP/tree/master/CPP06) | Casts in C++, templates, STL | ✅ |
-| 18 | [CPP Module 07](../../../42Malaga-CPP/tree/master/CPP07) | Templates in depth, containers in C++ | ✅ |
-| 19 | [CPP Module 08](../../../42Malaga-CPP/tree/master/CPP08) | Templated containers, iterators in C++ | ✅ |
-| 20 | [CPP Module 09](../../../42Malaga-CPP/tree/master/CPP09) | Templated containers, iterators in C++ | ✅ |
+| 05 | [push_swap](../../../push__swap) | A sorting algorithm using two stacks | ✅ |
+| 06 | [pipex](../../../pipex) | A program that replicates the functionality of Unix pipes | ✅ |
+| 07 | [fract-ol](../../../fractol) | A program that renders fractals | ✅ |
+| 08 | [Philosphers](../../../philo)  | A program that simulates the dining philosophers problem | ✅ |
+| 09 | minishell | A UNIX shell implementation | ✅ |
+| 10 | [cub3d](../../../cub3D) | A raycasting 3D game engine | ✅ |
+| 11 | [CPP Module 00](../../../cpp/tree/master/modulo00) | Introduction to C++ | ✅ |
+| 12 | [CPP Module 01](../../../cpp/tree/master/modulo01) | Memory allocation and references in C++ | ✅ |
+| 13 | [CPP Module 02](../../../cpp/tree/master/modulo02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ |
+| 14 | [CPP Module 03](../../../cpp/tree/master/modulo03) | Inheritance in C++ | ✅ | 80/100 |
+| 15 | [CPP Module 04](../../../cpp/tree/master/modulo04) | Subtype polymorphism, abstract classes, interfaces in C++ | ✅ |
+| 16 | [CPP Module 05](../../../cpp/tree/master/modulo05) | Nested classes, exceptions, and file streams in C++ | ✅ |
+| 17 | [CPP Module 06](../../../cpp/tree/master/modulo06) | Casts in C++, templates, STL | ✅ |
+| 18 | [CPP Module 07](../../../cpp/tree/master/modulo07) | Templates in depth, containers in C++ | ✅ |
+| 19 | [CPP Module 08](../../../cpp/tree/master/modulo08) | Templated containers, iterators in C++ | ✅ |
+| 20 | [CPP Module 09](../../../cpp/tree/master/modulo09) | Templated containers, iterators in C++ | ✅ |
 | 21 | NetPractice | Network and system administration exercises | ✅ |
-| 22 | ft_irc | Implementation of an IRC server | ✅ |
-| 23 | Inception | Docker-Compose project | ✅ |
-| 24 | ft_transcendence | Implementation of a multiplayer game server | ✅ |
+| 22 | [ft_irc](../../../ft_irc | Implementation of an IRC server | ✅ |
+| 23 | [Inception](../../../inception) | Docker-Compose project | ✅ |
+| 24 | [ft_transcendence](../../../ft_transcendence) | Implementation of a multiplayer game server | ✅ |
 ---
 
 <div align="center">
