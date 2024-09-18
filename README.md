@@ -4,10 +4,9 @@
 
 <div align="center">
 <br>
-
 [![](https://visitcount.itsvg.in/api?id=AntonioJesusRM&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
-
 </div>
+
 <details>
   <summary>About me</summary>
 <h2 align="center">About me</h2>
@@ -46,4 +45,14 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
          alt="AntonioJesusRM Whatsapp" height="30"/></a>
       <br>
     </p>
+</details>
+<details>
+  <summary>42 Cursus projects</summary>
+<div align="center">
+<h2>42 Cursus projects</h2>
+</div>
+<div align="center">
+<br>
+[![aruiz-mo's 42 stats](https://badge.mediaplus.ma/black/aruiz-mo?UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
 </details>
