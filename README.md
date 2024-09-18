@@ -22,3 +22,7 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <h3>Languages</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,c,cpp,html,css,js,python)](https://skillicons.dev)
+
+<h3>Tools</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,vim,vscode,github,git,docker)](https://skillicons.dev)
