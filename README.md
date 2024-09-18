@@ -79,6 +79,8 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 | 23 | webserv | Implementation of a basic HTTP server | ✅ |
 | 24 | Inception | Docker-Compose project | ✅ |
 | 25 | ft_transcendence | Implementation of a multiplayer game server | ✅ |
+---
+
 <div align="center">
   <br>
   <a href="https://github.com/oakoudad/badge42">
