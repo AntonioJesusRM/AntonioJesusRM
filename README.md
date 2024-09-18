@@ -12,4 +12,5 @@
   <summary>About me</summary>
 <h2 align="center">About me</h2>
 
-<p>I’m a Industrial Management Engineer who is passionate about marketing, startups and technology. I have recently joined the community and I look forward to contributing as much as I can! I love the concepts of open-source, teamwork and knowledge sharing in general creating technology to elevate people, and bullding community.
+<p>
+</p>
