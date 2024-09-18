@@ -84,7 +84,8 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <div align="center">
   <br>
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/black/aruiz-mo?UM6P=off" alt="aruiz-mo's 42 stats">
+    <img src="https://badge.mediaplus.ma/darkblue/aruiz-mo?1337Badge=off&UM6P=off" alt="aruiz-mo's 42 stats" />
   </a>
 </div>
+
 </details>
