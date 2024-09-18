@@ -51,6 +51,34 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 <div align="center">
 <h2>42 Cursus projects</h2>
 </div>
+<p align="left">This is my Github profile where you can find all the projects I have completed during my time at 42.</p>
+
+| Nº | Project Name | Description | Status |
+| --- | --- | --- | --- | --- |
+| 01 | [libft](../../../libft) | My first own C library | ✅ |
+| 02 | [ft_printf](../../../42Malaga-ft_printf)             | Recoding the printf function | ✅ | 
+| 03 | [get_next_line](../../../42Malaga-get_next_line)     | A function that reads a line from a file descriptor | ✅ |
+| 04 | Born2beroot | Setting up a secured server | ✅ |
+| 05 | [push_swap](../../../42Malaga-push_swap) | A sorting algorithm using two stacks | ✅ |
+| 06 | [minitalk](../../../42Malaga-minitalk)                | A client-server program to exchange messages using signals | ✅ |
+| 07 | [FdF](../../../42Malaga-fdf)                          | A 3D wireframe renderer | ✅ |
+| 08 | [Philosphers](../../../42Malaga-philosophers)  | A program that simulates the dining philosophers problem | ✅ |
+| 09 | [minishell](../../../42Malaga-minishell) | A UNIX shell implementation | ✅ |
+| 10 | [cub3d](../../../42Malaga-cub3D) | A raycasting 3D game engine | ✅ |
+| 12 | [CPP Module 00](../../../42Malaga-CPP/tree/master/CPP00) | Introduction to C++ | ✅ |
+| 13 | [CPP Module 01](../../../42Malaga-CPP/tree/master/CPP01) | Memory allocation and references in C++ | ✅ |
+| 14 | [CPP Module 02](../../../42Malaga-CPP/tree/master/CPP02) | Ad-hoc polymorphism, operators overload and canonical classes in C++ | ✅ |
+| 15 | [CPP Module 03](../../../42Malaga-CPP/tree/master/CPP03) | Inheritance in C++ | ✅ | 80/100 |
+| 16 | [CPP Module 04](../../../42Malaga-CPP/tree/master/CPP04) | Subtype polymorphism, abstract classes, interfaces in C++ | ✅ |
+| 17 | [CPP Module 05](../../../42Malaga-CPP/tree/master/CPP05) | Nested classes, exceptions, and file streams in C++ | ✅ |
+| 18 | [CPP Module 06](../../../42Malaga-CPP/tree/master/CPP06) | Casts in C++, templates, STL | ✅ |
+| 19 | [CPP Module 07](../../../42Malaga-CPP/tree/master/CPP07) | Templates in depth, containers in C++ | ✅ |
+| 20 | [CPP Module 08](../../../42Malaga-CPP/tree/master/CPP08) | Templated containers, iterators in C++ | ✅ |
+| 21 | [CPP Module 09](../../../42Malaga-CPP/tree/master/CPP09) | Templated containers, iterators in C++ | ✅ |
+| 22 | NetPractice | Network and system administration exercises | ✅ |
+| 23 | webserv | Implementation of a basic HTTP server | ✅ |
+| 24 | Inception | Docker-Compose project | ✅ |
+| 25 | ft_transcendence | Implementation of a multiplayer game server | ✅ |
 <div align="center">
   <br>
   <a href="https://github.com/oakoudad/badge42">
