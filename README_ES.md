@@ -3,8 +3,7 @@
 <h4 align="center">Consulta mi <a href="https://github.com/AntonioJesusRM/AntonioJesusRM/blob/main/Curriculum.pdf" target="_blank">currículum</a> para más información</h4>
 
 <p align="center">
-        <a href="https://github.com/AntonioJesusRM"><span>English</span></a>
-        <a href="https://readme.me"><span>Readme.me</span></a>
+        <a href="https://github.com/AntonioJesusRM/AntonioJesusRM/blob/main/README.md"><span>English</span></a>
 </p>
 
 <div align="center">
