@@ -130,5 +130,5 @@ He demostrado habilidades sólidas en esfuerzo y aprendizaje, resiliencia ante l
 [<img src="https://github.com/AntonioJesusRM/media/blob/main/linkedin-icon.png" width="50" height="50" align="right"></img>](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/AntonioJesusRM)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D5CAE&center=true&vCenter=true&width=435&lines=Apasionado+por+la+tecnología;Trabajo+en+equipo+e+innovación;En+constante+aprendizaje+y+crecimiento" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D5CAE&center=true&vCenter=true&width=435&lines=Apasionado+por+la+tecnología" alt="Typing SVG" />
 </p>
