@@ -3,7 +3,7 @@
 <h4 align="center">See my <a href="https://github.com/AntonioJesusRM/AntonioJesusRM/blob/main/Curriculum.pdf" target="_blank">resume</a> for more</h4>
 
 <p align="center">
-        <a href="https://github.com/eust-w/eust-w/blob/main/README_ES.md"><span>Español</span></a>|
+        <a href="https://github.com/eust-w/eust-w/blob/main/README_ES.md"><span>Español</span></a>
 </p>
 
 <div align="center">
