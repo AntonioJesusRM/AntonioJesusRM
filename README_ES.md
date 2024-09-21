@@ -104,7 +104,6 @@ He demostrado habilidades sólidas en esfuerzo y aprendizaje, resiliencia ante l
 
 ![](https://github-profile-trophy.vercel.app/?username=AntonioJesusRM&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
-
 </div>
 </details>
 
