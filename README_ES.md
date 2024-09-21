@@ -26,6 +26,10 @@ He demostrado habilidades sólidas en esfuerzo y aprendizaje, resiliencia ante l
 
 [![Mis Habilidades](https://skillicons.dev/icons?i=kotlin,c,cpp,html,css,js,python)](https://skillicons.dev)
 
+<p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioJesusRM&show_icons=true&locale=es&layout=compact" alt="Antonio Jesus stats" />
+</p>
+
 <h3>Herramientas</h3>
 
 [![Mis Habilidades](https://skillicons.dev/icons?i=androidstudio,bash,vim,vscode,github,git,docker)](https://skillicons.dev)
