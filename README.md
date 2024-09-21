@@ -26,6 +26,10 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 
 [![My Skills](https://skillicons.dev/icons?i=kotlin,c,cpp,html,css,js,python)](https://skillicons.dev)
 
+<p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AntonioJesusRM&show_icons=true&locale=en&layout=compact" alt="Antonio Jesus stats" />
+</p>
+
 <h3>Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,vim,vscode,github,git,docker)](https://skillicons.dev)
