@@ -94,6 +94,23 @@ He demostrado habilidades sólidas en esfuerzo y aprendizaje, resiliencia ante l
 </details>
 
 <details>
+  <summary>Proyectos personales</summary>
+<div align="center">
+<h2>Proyectos personales</h2>
+</div>
+<p align="center">Estos son algunos de los proyectos personales que he realizado.</p>
+        
+| Nº | Nombre | Descripcion | Tecnología |
+| --- | --- | --- | --- |
+| 01 | [API-Reqres.in](../../../API-Reqres.in) | Prueba técnica de react con la api Reqres.in | React - Html - CSS |
+| 02 | [Sudoku](../../../Sudoku) | App realizada para resolver Sudokus | C++ - QT |
+| 03 | [42 user info](../../../42UserInfo) | Obtener los datos de usuario de la api de 42 | Android - Jetpack compose |
+---
+
+</details>
+
+
+<details>
   <summary>Estadísticas de GitHub</summary>
 <div align="center">
 
