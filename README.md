@@ -100,7 +100,7 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 </div>
 <p align="center">These are some of the personal projects I have carried out.</p>
         
-| Nº | Project Name | Description | technology |
+| Nº | Project Name | Description | Technology |
 | --- | --- | --- | --- |
 | 01 | [API-Reqres.in](../../../API-Reqres.in) | Technical react test with api Reqres.in | React - Html - CSS |
 | 02 | [Sudoku](../../../Sudoku) | App designed to solve sudokus | C++ - QT |
