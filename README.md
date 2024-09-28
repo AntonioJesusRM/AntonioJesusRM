@@ -94,6 +94,22 @@ I have demonstrated strong skills in effort and learning, resilience to frustrat
 </details>
 
 <details>
+  <summary>Personal projects</summary>
+<div align="center">
+<h2>Personal projects</h2>
+</div>
+<p align="center">These are some of the personal projects I have carried out.</p>
+        
+| Nº | Project Name | Description | technology |
+| --- | --- | --- | --- |
+| 01 | [API-Reqres.in](../../../API-Reqres.in) | Technical react test with api Reqres.in | React - Html - CSS |
+| 02 | [Sudoku](../../../Sudoku) | App designed to solve sudokus | C++ - QT |
+| 03 | [42 user info](../../../42UserInfo) | Get the user data from the api of 42 | Android - Jetpack compose |
+---
+
+</details>
+
+<details>
   <summary>GitHub Stats</summary>
 <div align="center">
 
