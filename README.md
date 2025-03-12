@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Antonio</h1>
 <h3 align="center">Mobile developer | 42 Málaga student </h3>
-<h4 align="center">See my <a href="https://github.com/AntonioJesusRM/AntonioJesusRM/blob/main/Curriculum Ingles.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">See my <a href="https://github.com/AntonioJesusRM/AntonioJesusRM/blob/main/AntonioJesusRM/blob/main/Antonio%20Jesús%20Ruiz%20Moreno%20-%20English.pdf" target="_blank">resume</a> for more</h4>
 
 <p align="center">
         <a href="https://github.com/AntonioJesusRM/AntonioJesusRM/blob/main/README_ES.md"><span>Español</span></a>
