@@ -7,9 +7,6 @@
 </p>
 
 <div align="center">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=AntonioJesusRM&label=Visitas%20al%20perfil&color=1&icon=0&pretty=false" alt="Visitas al perfil">
-</a>
 
 <details>
   <summary>Sobre mí</summary>
